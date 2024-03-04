@@ -1,0 +1,22 @@
+{
+  "name": "eslint-perttier",
+  "version": "1.0.0",
+  "description": "eslint-perttier config",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinn2015/eslint-perttier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinn2015/eslint-perttier/issues"
+  },
+  "homepage": "https://github.com/tinn2015/eslint-perttier#readme",
+  "dependencies": {
+    "eslint": "^8.57.0"
+  }
+}
